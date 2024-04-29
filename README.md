@@ -1,1 +1,7 @@
 # Quiz-Game1
+
+Name:- Aryan Sharma
+
+Branch:- B.Tech CSE(AIML)
+
+St. ANDREWS INSTITUTE OF TECHNOLOGY AND MANAGMENT
